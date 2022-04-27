@@ -1,7 +1,7 @@
 [![MasterHead](https://cdn.discordapp.com/attachments/759147054509064242/968911438020247552/gth.png)](https://micy.cloud)
 <h1 align="center">Hi 👋, I'm Micy</h1>
 <h3 align="center">A passionate "developer" from P0land 💀</h3>
-<img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/Micychalek/micy.cloud/main/assets/img/card.gif">
+<img align="right" alt="Coding" width="150" src="https://raw.githubusercontent.com/Micychalek/micy.cloud/main/assets/img/card.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=micychalek&label=Profile%20views&color=0e75b6&style=flat" alt="micychalek" /> </p>
 
