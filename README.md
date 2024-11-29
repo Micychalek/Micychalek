@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/759147054509064242/968911438020247552/gth.png)](https://micy.cloud)
+[![MasterHead](https://yt3.googleusercontent.com/PNyCsIpMfJ0saGhLo_MYFwQzMo8qbVwfmY7MPcV7-9RTGe7sXmKGo7IcV3MKRYh8Y9wS4m8I=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)](https://micy.cloud)
 <h1 align="center">Hi 👋, I'm Micy</h1>
 <h3 align="center">A passionate "developer" from P0land 💀</h3>
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/Micychalek/micy.cloud/main/assets/img/card.gif">
